@@ -5,3 +5,11 @@
     one more css for each page that will contain the selected used 
     on that page only (the ones not reused in other pages).
 */
+
+.bg-dark{
+    background-color: #414042 !important;
+}
+
+.border-bottom-black{
+    border: 3px solid #000;
+}
